@@ -22,3 +22,16 @@ console.log(z,...k)
 let a = "hello";
 let b = `hi, ${a}`;
 console.log(b);
+
+
+
+try {
+let result = 10 / 0;
+console.log(result); 
+let data = JSON.parse("invalid json");
+} catch (error) {
+console.log("Oops! Something went wrong:");
+console.log(error.message); 
+} finally {
+console.log("This ALWAYS runs!"); 
+}
