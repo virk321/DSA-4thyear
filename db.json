@@ -1,0 +1,69 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Aman",
+      "age": 21,
+      "course": "MERN",
+      "marks": 85,
+      "city": "Delhi"
+    },
+    {
+      "id": "2",
+      "name": "Priya",
+      "age": 22,
+      "course": "Java",
+      "marks": 92,
+      "city": "Noida"
+    },
+    {
+      "id": "3",
+      "name": "Rahul",
+      "age": 20,
+      "course": "MERN",
+      "marks": 76,
+      "city": "Delhi"
+    },
+    {
+      "id": "4",
+      "name": "Neha",
+      "age": 23,
+      "course": "React",
+      "marks": 88,
+      "city": "Gurugram"
+    },
+    {
+      "id": "5",
+      "name": "Rohit",
+      "age": 21,
+      "course": "Java",
+      "marks": 69,
+      "city": "Noida"
+    },
+    {
+      "id": "6",
+      "name": "Sneha",
+      "age": 22,
+      "course": "MERN",
+      "marks": 95,
+      "city": "Delhi"
+    },
+    {
+      "name": "Mohan",
+      "age": 42,
+      "course": "express.js",
+      "marks": 91,
+      "city": "delhi",
+      "id": "vsEVHYpvkr4"
+    },
+    {
+      "name": "Sohan",
+      "age": 48,
+      "course": "vue.js",
+      "marks": 91,
+      "city": "kashmir",
+      "id": "Ha8BI7_adws"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
